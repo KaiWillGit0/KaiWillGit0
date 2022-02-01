@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiWillGit0
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning HTML, CSS & Javascript as well as other useful technologies such as React JS, Tailwind CSS, & jQuery
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me kaipetrus22@gmail.com
 
